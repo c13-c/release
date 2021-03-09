@@ -1,0 +1,52 @@
+{
+	"artifacts": [
+		{
+			"name": "godbook.jar",
+			"plugins": ["net.runelite.client.plugins.godbook.GodBookPlugin"],
+			"version": "2.0.0",
+			"path": "https://cdn.discordapp.com/attachments/818948297535651890/818957108539293707/godbook.jar",
+			"hash": "ea826e6a93c16457df712112258717e606dbeb2393557a7b4b4bb1f5ec982c50",
+			"description": "Helps you time godbooking by showing which tick other players preached on"
+		},
+		{
+			"name": "playerstatusextended.jar",
+			"plugins": ["net.runelite.client.plugins.playerstatusextended.PlayerStatusExtendedPlugin"],
+			"version": "1.0.5",
+			"path": "https://cdn.discordapp.com/attachments/818948297535651890/818957129956196392/playerstatusextended.jar",
+			"hash": "5a5d94fa8a2ebe6eee3d64068ebbd4f9306d03bd01ed68865a2d7c13f8e50ec5",
+			"description": "Tells you if other players who also have this plugin are swinging unpotted, and tells them if you are. You can only see it for other people who also have this plugin."
+		},
+		{
+			"name": "socketping.jar",
+			"plugins": ["net.runelite.client.plugins.socketping.SocketPingPlugin"],
+			"version": "1.0.0",
+			"path": "https://cdn.discordapp.com/attachments/818948297535651890/818957115543650324/socketping.jar",
+			"hash": "24df4cc57516d23aa6d64aaaa01ceba033b7aba83c0c0078c96f96c6088011e8",
+			"description": "Useless plugin. Ctrl+Click to mark a tile for other players who also have this plugin to see."
+		},
+		{
+			"name": "socketdeathind.jar",
+			"plugins": ["net.runelite.client.plugins.deathindicators.DeathIndicatorsPlugin"],
+			"version": "1.1.2",
+			"path": "https://cdn.discordapp.com/attachments/818948297535651890/818957123236528218/socketdeathind.jar",
+			"hash": "a754b086d575177b4ca0c25f8d6f76186f2baf7965dca4378a9151de24871684",
+			"description": "Hides Nylos that have been killed by projectile that is still in the air. Only shows other players' kills who also have this plugin."
+		},
+		{
+			"name": "socketplayerindicators.jar",
+			"plugins": ["net.runelite.client.plugins.playernames.PlayerNamesPlugin"],
+			"version": "1.1.0",
+			"path": "https://cdn.discordapp.com/attachments/818948297535651890/818957136141746256/socketplayerindicators.jar",
+			"hash": "b62b9b75cdf35e7ef5d5ec0b3c0948026260e9b074bf7bae46f0350efebc4846",
+			"description": "Just like standard player indicators plugin except for people who are in the same socket as you. Useful for finding those private off players you raid with."
+		},
+		{
+			"name": "csotetseg.jar",
+			"plugins": ["net.runelite.client.plugins.cSotetseg.cSotetsegPlugin"],
+			"version": "1.1.4",
+			"path": "https://cdn.discordapp.com/attachments/818948297535651890/818957144317624330/csotetseg.jar",
+			"hash": "5db2cbfccf9708b996d7a9b7d28e06d79f262e80d357d1bb35e0bfebb4471d94",
+			"description": "Shows you the solved maze. Does not work in solos, maze time isn't accurate when chosen."
+		}
+	]
+}
