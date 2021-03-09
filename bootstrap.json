@@ -15,7 +15,7 @@
 			"path": "https://cdn.discordapp.com/attachments/818948297535651890/818948372546977812/Player_Status_Extended_V1.0.5.jar",
 			"hash": "5a5d94fa8a2ebe6eee3d64068ebbd4f9306d03bd01ed68865a2d7c13f8e50ec5",
 			"description": "Tells you if other players who also have this plugin are swinging unpotted, and tells them if you are. You can only see it for other people who also have this plugin."
-		}
+		},
 		{
 			"name": "Socket_Ping_V1.0.0.jar",
 			"plugins": ["net.runelite.client.plugins.socketping.SocketPingPlugin"],
