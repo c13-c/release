@@ -42,7 +42,7 @@
 		},
 		{
 			"name": "csotetseg.jar",
-			"plugins": ["net.runelite.client.plugins.cSotetsegPlugin.cSotetsegPlugin"],
+			"plugins": ["net.runelite.client.plugins.cSotetseg.cSotetsegPlugin"],
 			"version": "1.1.4",
 			"path": "https://cdn.discordapp.com/attachments/818948297535651890/818957144317624330/csotetseg.jar",
 			"hash": "5db2cbfccf9708b996d7a9b7d28e06d79f262e80d357d1bb35e0bfebb4471d94",
