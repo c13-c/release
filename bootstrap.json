@@ -25,10 +25,10 @@
 			"description": "Useless plugin. Ctrl+Click to mark a tile for other players who also have this plugin to see."
 		},
 		{
-			"name": "socketdeathind.jar",
+			"name": "SDI113.jar",
 			"plugins": ["net.runelite.client.plugins.deathindicators.DeathIndicatorsPlugin"],
-			"version": "1.1.2",
-			"path": "https://cdn.discordapp.com/attachments/818948297535651890/818957123236528218/socketdeathind.jar",
+			"version": "1.1.3",
+			"path": "https://cdn.discordapp.com/attachments/818948297535651890/824072021352382525/SDI113.jar",
 			"hash": "a754b086d575177b4ca0c25f8d6f76186f2baf7965dca4378a9151de24871684",
 			"description": "Hides Nylos that have been killed by projectile that is still in the air. Only shows other players' kills who also have this plugin."
 		},
