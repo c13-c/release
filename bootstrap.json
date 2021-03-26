@@ -47,6 +47,14 @@
 			"path": "https://cdn.discordapp.com/attachments/818948297535651890/818957144317624330/csotetseg.jar",
 			"hash": "5db2cbfccf9708b996d7a9b7d28e06d79f262e80d357d1bb35e0bfebb4471d94",
 			"description": "Shows you the solved maze. Does not work in solos, maze time isn't accurate when chosen."
+		},
+		{
+			"name": "cChatExtensions.jar",
+			"plugins": ["net.runelite.client.plugins.chatextension.cChatExtensionPlugin"],
+			"version": "1.0.0",
+			"path": "https://cdn.discordapp.com/attachments/818948297535651890/825072993868709978/cChatExtensions.jar",
+			"hash": "3166bf34da6e5d31408a089657ee63dd4ab630a567dc636e6375d12473e04a58",
+			"description": "Allows you to ctrl+v into chat box."
 		}
 	]
 }
