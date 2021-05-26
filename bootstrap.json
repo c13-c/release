@@ -35,9 +35,9 @@
 		{
 			"name": "socketplayerindicators.jar",
 			"plugins": ["net.runelite.client.plugins.playernames.PlayerNamesPlugin"],
-			"version": "1.1.0",
-			"path": "https://cdn.discordapp.com/attachments/818948297535651890/818957136141746256/socketplayerindicators.jar",
-			"hash": "b62b9b75cdf35e7ef5d5ec0b3c0948026260e9b074bf7bae46f0350efebc4846",
+			"version": "1.2.0",
+			"path": "https://cdn.discordapp.com/attachments/818948297535651890/847236595702038548/socketplayerindicators.jar",
+			"hash": "0232d62ca63ff68fedab3650742a4aab7f25100bf9d5fe16523f3bea0ca82b0d",
 			"description": "Just like standard player indicators plugin except for people who are in the same socket as you. Useful for finding those private off players you raid with."
 		},
 		{
