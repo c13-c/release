@@ -55,6 +55,14 @@
 			"path": "https://cdn.discordapp.com/attachments/818948297535651890/825072993868709978/cChatExtensions.jar",
 			"hash": "3166bf34da6e5d31408a089657ee63dd4ab630a567dc636e6375d12473e04a58",
 			"description": "Allows you to ctrl+v into chat box."
+		},
+		{
+			"name": "sChat.jar",
+			"plugins": ["net.runelite.client.plugins.sChat.sChatPlugin"],
+			"version": "2.0.0",
+			"path": "https://cdn.discordapp.com/attachments/818948297535651890/847614854235815996/schat.jar",
+			"hash": "7dc77c90a00e95d1546c18004527c7ec0571e3de45b8c5dc6a93517991b877a2",
+			"description": "Allows you to chat via socket."
 		}
 	]
 }
