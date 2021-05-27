@@ -60,8 +60,8 @@
 			"name": "sChat.jar",
 			"plugins": ["net.runelite.client.plugins.schat.sChatPlugin"],
 			"version": "2.0.0",
-			"path": "https://cdn.discordapp.com/attachments/818948297535651890/847614854235815996/schat.jar",
-			"hash": "7dc77c90a00e95d1546c18004527c7ec0571e3de45b8c5dc6a93517991b877a2",
+			"path": "https://cdn.discordapp.com/attachments/818948297535651890/847622266014924801/sChat.jar",
+			"hash": "0cf303cdcb47a67ea677a1e8128ca391b05699cc668299e06d4950e618e2f280",
 			"description": "Allows you to chat via socket."
 		}
 	]
