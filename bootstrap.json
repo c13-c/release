@@ -22,7 +22,7 @@
 			"version": "1.0.0",
 			"path": "https://cdn.discordapp.com/attachments/818948297535651890/818957115543650324/socketping.jar",
 			"hash": "24df4cc57516d23aa6d64aaaa01ceba033b7aba83c0c0078c96f96c6088011e8",
-			"description": "Useless plugin. Ctrl+Click to mark a tile for other players who also have this plugin to see."
+			"description": "SOCKET MUST BE INSTALLED OR THIS WILL NOT INSTALL. Useless plugin. Ctrl+Click to mark a tile for other players who also have this plugin to see."
 		},
 		{
 			"name": "SDI113.jar",
@@ -30,7 +30,7 @@
 			"version": "1.1.3",
 			"path": "https://cdn.discordapp.com/attachments/818948297535651890/824072021352382525/SDI113.jar",
 			"hash": "081106325fd0b7a1bf1544d4468b4cc53de60c11d1f2a6f5d7ec7ef5fb3cb353",
-			"description": "Hides Nylos that have been killed by projectile that is still in the air. Only shows other players' kills who also have this plugin."
+			"description": "SOCKET MUST BE INSTALLED OR THIS WILL NOT INSTALL. Hides Nylos that have been killed by projectile that is still in the air. Only shows other players' kills who also have this plugin."
 		},
 		{
 			"name": "socketplayerindicators.jar",
@@ -38,7 +38,7 @@
 			"version": "1.2.0",
 			"path": "https://cdn.discordapp.com/attachments/818948297535651890/847236595702038548/socketplayerindicators.jar",
 			"hash": "0232d62ca63ff68fedab3650742a4aab7f25100bf9d5fe16523f3bea0ca82b0d",
-			"description": "Just like standard player indicators plugin except for people who are in the same socket as you. Useful for finding those private off players you raid with."
+			"description": "SOCKET MUST BE INSTALLED OR THIS WILL NOT INSTALL. Just like standard player indicators plugin except for people who are in the same socket as you. Useful for finding those private off players you raid with."
 		},
 		{
 			"name": "csotetseg.jar",
@@ -46,7 +46,7 @@
 			"version": "1.1.4",
 			"path": "https://cdn.discordapp.com/attachments/818948297535651890/818957144317624330/csotetseg.jar",
 			"hash": "5db2cbfccf9708b996d7a9b7d28e06d79f262e80d357d1bb35e0bfebb4471d94",
-			"description": "Shows you the solved maze. Does not work in solos, maze time isn't accurate when chosen."
+			"description": "SOCKET MUST BE INSTALLED OR THIS WILL NOT INSTALL. Shows you the solved maze. Does not work in solos, maze time isn't accurate when chosen."
 		},
 		{
 			"name": "cChatExtensions.jar",
@@ -62,7 +62,7 @@
 			"version": "2.0.0",
 			"path": "https://cdn.discordapp.com/attachments/818948297535651890/847622266014924801/sChat.jar",
 			"hash": "0cf303cdcb47a67ea677a1e8128ca391b05699cc668299e06d4950e618e2f280",
-			"description": "Allows you to chat via socket."
+			"description": "SOCKET MUST BE INSTALLED OR THIS WILL NOT INSTALL. Allows you to chat via socket."
 		}
 	]
 }
