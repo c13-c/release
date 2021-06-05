@@ -25,11 +25,11 @@
 			"description": "SOCKET MUST BE INSTALLED OR THIS WILL NOT INSTALL. Useless plugin. Ctrl+Click to mark a tile for other players who also have this plugin to see."
 		},
 		{
-			"name": "SDI113.jar",
+			"name": "SocketDeathIndicators.jar",
 			"plugins": ["net.runelite.client.plugins.deathindicators.DeathIndicatorsPlugin"],
-			"version": "1.1.3",
-			"path": "https://cdn.discordapp.com/attachments/818948297535651890/824072021352382525/SDI113.jar",
-			"hash": "081106325fd0b7a1bf1544d4468b4cc53de60c11d1f2a6f5d7ec7ef5fb3cb353",
+			"version": "1.2.0",
+			"path": "https://cdn.discordapp.com/attachments/818948297535651890/850552761266995220/Socket_-_Death_Indicators.jar",
+			"hash": "6f971f19e67f5e21fafde814adee3e26486a94bbe17bf3401fab1527aaf8161b",
 			"description": "SOCKET MUST BE INSTALLED OR THIS WILL NOT INSTALL. Hides Nylos that have been killed by projectile that is still in the air. Only shows other players' kills who also have this plugin."
 		},
 		{
