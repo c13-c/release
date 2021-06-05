@@ -1,14 +1,6 @@
 {
 	"artifacts": [
-		
-		{
-			"name": "Socket.jar",
-			"plugins": ["net.runelite.client.plugins.socket.SocketPlugin", "net.runelite.client.plugins.socket.packet.SocketReceivePacket","net.runelite.client.plugins.socket.packet.SocketBroadcastPacket","net.runelite.client.plugins.socket.packet.SocketMembersUpdate","net.runelite.client.plugins.socket.packet.SocketPlayerJoin","net.runelite.client.plugins.socket.packet.SocketPlayerLeave"],
-			"version": "2.1.1",
-			"path": "https://cdn.discordapp.com/attachments/818948297535651890/850765398944907304/Socket.jar",
-			"hash": "aa883ec16f071a5b17ebeced67c649c33ac9ea2df5548a663e6400d72b5fc6b9",
-			"description": "Allows communication between other players for sotetseg maze, special attacks, and more."
-		},
+	
 		{
 			"name": "godbook.jar",
 			"plugins": ["net.runelite.client.plugins.godbook.GodBookPlugin"],
@@ -34,22 +26,6 @@
 			"description": "SOCKET MUST BE INSTALLED OR THIS WILL NOT INSTALL. Useless plugin. Ctrl+Click to mark a tile for other players who also have this plugin to see."
 		},
 		{
-			"name": "SocketDeathIndicators.jar",
-			"plugins": ["net.runelite.client.plugins.deathindicators.DeathIndicatorsPlugin"],
-			"version": "1.2.1",
-			"path": "https://cdn.discordapp.com/attachments/818948297535651890/850765177867862027/SocketDeathIndicators.jar",
-			"hash": "0e5c2a162deb6cd05055176c4ccf87c0e6ea9800b1152b0bfd21602e364d1507",
-			"description": "SOCKET MUST BE INSTALLED OR THIS WILL NOT INSTALL. Hides Nylos that have been killed by projectile that is still in the air. Only shows other players' kills who also have this plugin."
-		},
-		{
-			"name": "socketplayerindicators.jar",
-			"plugins": ["net.runelite.client.plugins.playernames.PlayerNamesPlugin"],
-			"version": "1.2.0",
-			"path": "https://cdn.discordapp.com/attachments/818948297535651890/847236595702038548/socketplayerindicators.jar",
-			"hash": "0232d62ca63ff68fedab3650742a4aab7f25100bf9d5fe16523f3bea0ca82b0d",
-			"description": "SOCKET MUST BE INSTALLED OR THIS WILL NOT INSTALL. Just like standard player indicators plugin except for people who are in the same socket as you. Useful for finding those private off players you raid with."
-		},
-		{
 			"name": "csotetseg.jar",
 			"plugins": ["net.runelite.client.plugins.cSotetseg.cSotetsegPlugin"],
 			"version": "1.1.4",
@@ -64,14 +40,6 @@
 			"path": "https://cdn.discordapp.com/attachments/818948297535651890/825072993868709978/cChatExtensions.jar",
 			"hash": "3166bf34da6e5d31408a089657ee63dd4ab630a567dc636e6375d12473e04a58",
 			"description": "Allows you to ctrl+v into chat box."
-		},
-		{
-			"name": "sChat.jar",
-			"plugins": ["net.runelite.client.plugins.schat.sChatPlugin"],
-			"version": "2.0.0",
-			"path": "https://cdn.discordapp.com/attachments/818948297535651890/847622266014924801/sChat.jar",
-			"hash": "0cf303cdcb47a67ea677a1e8128ca391b05699cc668299e06d4950e618e2f280",
-			"description": "SOCKET MUST BE INSTALLED OR THIS WILL NOT INSTALL. Allows you to chat via socket."
 		}
 	]
 }
