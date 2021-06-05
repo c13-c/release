@@ -8,7 +8,7 @@
 			"path": "https://cdn.discordapp.com/attachments/818948297535651890/850765398944907304/Socket.jar",
 			"hash": "aa883ec16f071a5b17ebeced67c649c33ac9ea2df5548a663e6400d72b5fc6b9",
 			"description": "Allows communication between other players for sotetseg maze, special attacks, and more."
-		}
+		},
 		{
 			"name": "godbook.jar",
 			"plugins": ["net.runelite.client.plugins.godbook.GodBookPlugin"],
