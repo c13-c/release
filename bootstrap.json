@@ -1,5 +1,14 @@
 {
 	"artifacts": [
+		
+		{
+			"name": "Socket.jar",
+			"plugins": ["net.runelite.client.plugins.socket.SocketPlugin"],
+			"version": "2.1.1",
+			"path": "https://cdn.discordapp.com/attachments/818948297535651890/850765398944907304/Socket.jar",
+			"hash": "aa883ec16f071a5b17ebeced67c649c33ac9ea2df5548a663e6400d72b5fc6b9",
+			"description": "Allows communication between other players for sotetseg maze, special attacks, and more."
+		}
 		{
 			"name": "godbook.jar",
 			"plugins": ["net.runelite.client.plugins.godbook.GodBookPlugin"],
@@ -27,9 +36,9 @@
 		{
 			"name": "SocketDeathIndicators.jar",
 			"plugins": ["net.runelite.client.plugins.deathindicators.DeathIndicatorsPlugin"],
-			"version": "1.2.0",
-			"path": "https://cdn.discordapp.com/attachments/818948297535651890/850552761266995220/Socket_-_Death_Indicators.jar",
-			"hash": "6f971f19e67f5e21fafde814adee3e26486a94bbe17bf3401fab1527aaf8161b",
+			"version": "1.2.1",
+			"path": "https://cdn.discordapp.com/attachments/818948297535651890/850765177867862027/SocketDeathIndicators.jar",
+			"hash": "0e5c2a162deb6cd05055176c4ccf87c0e6ea9800b1152b0bfd21602e364d1507",
 			"description": "SOCKET MUST BE INSTALLED OR THIS WILL NOT INSTALL. Hides Nylos that have been killed by projectile that is still in the air. Only shows other players' kills who also have this plugin."
 		},
 		{
